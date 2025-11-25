@@ -49,13 +49,9 @@ https://github.com/user-attachments/assets/5d2a74c9-7d6d-446d-85ae-c3893fe6ba34
 
 🛠️ Technology Stack
 
- Feature          | Technology                 |
- 
- Frontend UI      | Flutter                    |
- Backend Database | Firebase Firestore         |
- Authentication   | Firebase Auth              |
- Image Storage    | Firebase Storage           |
- Payment Gateway  | Stripe                     |
+ Flutter
+ Firebase
+ Stripe
 
 🔥 Why EventSpot?
 
