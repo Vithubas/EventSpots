@@ -11,12 +11,12 @@ EventSpot is a Flutter application powered by Firebase and Stripe that allows us
 Many people only hear about events through scattered sources like WhatsApp chats, Facebook posts, or social media stories. This leads to missed opportunities and limited awareness of what’s happening around them.
 EventSpot solves this problem by providing a single platform where:
 
-✔ Users can discover all events in one place
-✔ Events are organized by categories
-✔ Users can read full event details
-✔ Tickets can be booked instantly
-✔ Payments are processed securely using Stripe
-✔ Admins can upload new events easily
+ Users can discover all events in one place
+ Events are organized by categories
+ Users can read full event details
+ Tickets can be booked instantly
+ Payments are processed securely using Stripe
+ Admins can upload new events easily
 
 🎥 Demo Video
 https://github.com/user-attachments/assets/5d2a74c9-7d6d-446d-85ae-c3893fe6ba34
